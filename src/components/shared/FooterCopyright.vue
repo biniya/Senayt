@@ -3,8 +3,8 @@ export default {
 	data: () => {
 		return {
 			copyrightDate: new Date().getFullYear(),
-			projectName: 'Vue.js & TailwindCSS Portfolio',
-			author: 'Stoman',
+			projectName: 'Portfolio',
+			author: 'Senayt',
 		};
 	},
 };
